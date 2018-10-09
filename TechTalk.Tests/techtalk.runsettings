@@ -10,7 +10,8 @@
     <TargetPlatform>x64</TargetPlatform>
 
     <!-- Framework35 | [Framework40] | Framework45 -->
-    <TargetFrameworkVersion>Framework40</TargetFrameworkVersion>
+    <TargetFrameworkVersion>netcoreapp2.1</TargetFrameworkVersion>
+    
   </RunConfiguration>
 
   <!-- Configurations for data collectors -->
