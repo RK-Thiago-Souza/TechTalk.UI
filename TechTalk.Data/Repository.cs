@@ -10,7 +10,7 @@ namespace TechTalk.Data
             return new HelloWorldDTO()
             {
                 ID = new Guid(),
-                IsValid = true,
+                IsValid = false,
                 Message = "Success message"
             };
         }
