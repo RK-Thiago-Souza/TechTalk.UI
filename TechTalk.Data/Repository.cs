@@ -28,7 +28,7 @@ namespace TechTalk.Data
             this.HelloWorlds.Add(new HelloWorldDTO
             {
                 ID = Guid.NewGuid(),
-                IsValid = false,
+                IsValid = true,
                 Message = "Hello World"
             });
 
