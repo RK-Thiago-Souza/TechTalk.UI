@@ -50,7 +50,7 @@ namespace TechTalk.Data
             {
                 ID = Guid.NewGuid(),
                 IsValid = true,
-                Message = "Hello TechOps"
+                Message = "Hello TechOps!"
             });
 
             return this.HelloWorlds;
