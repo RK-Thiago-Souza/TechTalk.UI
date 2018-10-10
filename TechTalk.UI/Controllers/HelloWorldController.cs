@@ -17,7 +17,7 @@ namespace TechTalk.UI.Controllers
         {
             try
             {
-
+                erro
                 var helloWorlds = await Task.FromResult<List<HelloWorldDTO>>(HelloWorldService.List());
 
                 return Ok(helloWorlds);
