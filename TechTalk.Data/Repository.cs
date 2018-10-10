@@ -43,7 +43,7 @@ namespace TechTalk.Data
             {
                 ID = Guid.NewGuid(),
                 IsValid = true,
-                Message = "Hello TechTalk"
+                Message = "Hello TechTalk? sera?"
             });
 
             this.HelloWorlds.Add(new HelloWorldDTO
